@@ -42,3 +42,6 @@ return (
 
 // Dont actually use that code, its probably dangerous, maybe one day ill come up with a better way to do it (or you can and make a PR)
 ```
+
+
+Not my original code, check out the OG author as he's super cool [blog](https://ntag.fr/tron-like-maps/) and [og repo](https://github.com/NTag/dotted-map)

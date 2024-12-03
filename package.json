@@ -1,6 +1,6 @@
 {
   "name": "dotted-map-no-alaska",
-  "version": "2.2.4",
+  "version": "2.2.5",
   "description": "Create a SVG map filled with dots for the world or countries (now without alaska!)",
   "main": "./index.js",
   "exports": {
